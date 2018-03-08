@@ -1,5 +1,7 @@
 package _401_500;
 
+import java.util.List;
+
 public class _422_validWordSquare {
 
 	public static void main(String[] args) {

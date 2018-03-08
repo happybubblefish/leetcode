@@ -1,7 +1,5 @@
 package _501_600;
 
-import javax.swing.tree.TreeNode;
-
 public class _536_constructBinaryTreeFromString {
 
 	public static void main(String[] args) {

@@ -37,7 +37,7 @@ public class _716_maxStack {
 	Stack<Integer> stack;
     Stack<Integer> maxStack;
     /** initialize your data structure here. */
-    public MaxStack() {
+    public _716_maxStack() {
         stack = new Stack<>();
         maxStack = new Stack<>();
     }
