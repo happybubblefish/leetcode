@@ -1,6 +1,6 @@
 package _001_100;
 
-public class _50_pow {
+public class _050_pow {
     public static void main(String[] args) {
         System.out.println(myPow(2, -3));
     }
