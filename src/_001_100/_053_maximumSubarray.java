@@ -1,6 +1,6 @@
 package _001_100;
 
-public class _53_maximumSubarray {
+public class _053_maximumSubarray {
     public static void main(String[] args) {
         int[] nums = { -2, -1, 0, -3 };
 
