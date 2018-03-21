@@ -2,196 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="127cccb3-4f11-4b74-94fd-95989368e3bb" name="Default" comment="add solution for problem 1">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_001_twoSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_002_addTwoNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_003_longestSubstringWithoutRepeatingCharacters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_004_medianOfTwoSortedArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_005_longestPalindromicSubString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_007_reverseInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_008_palindromeNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_011_containerWithMostWater.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_012_integerToRoman$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_012_integerToRoman.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_013_romanToInteger$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_013_romanToInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_014_longestCommonPrefix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_015_3Sum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_016_3SumClosest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_017_letterCombinationsOfAPhoneNumber$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_017_letterCombinationsOfAPhoneNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_018_4Sum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_019_removeNthNodeFromEndOfList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_001_100/_072_editDistance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_121_bestTimeToBuyAndSellStock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_122_bestTimeToBuyAndSellStockII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_125_validPalidrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_127_wordLadder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_129_sumRootToLeafNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_130_surroundedRegions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_156_binaryTreeUpsideDown.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_157_readNCharactersGivenRead4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_158_readNCharactersGivenRead4II.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_159_longestSubstringWithAtMostTwoDistinctCharacters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_161_oneEditDistance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_163_missingRanges.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_170_twoSumIII_DataStructureDesign$TwoSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_101_200/_170_twoSumIII_DataStructureDesign.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/Interval.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_201_bitwiseAndOfRangeNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_202_happyNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_203_removeLinkedListElements.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_204_countPrimes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_205_isomorphicStrings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_243_shortestWordDistance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_244_shortestWordDistanceII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_245_shortestWordDistanceIII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_246_strobogrammaticNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_247_strobogrammaticNumberII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_248_strobogrammaticNumberIII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_249_groupShiftedStrings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_250_countUniValueSubtrees.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_251_flatten2DVector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_252_meetingRooms$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_252_meetingRooms.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_253_meetingRoomsII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_254_factorCombinations.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_255_verifyPreorderSequenceInBST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_256_paintHouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_259_3SumSmaller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_261_graphValidTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_265_paintHouseII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_266_palindromePermutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_267_palidromePermutationII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_269_alienDictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_270_cloestBSTValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_271_encodeAndDecodeString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_272_closestBSTValueII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_276_paintFence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_281_zigZagIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_285_inorderSuccessorInBST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_286_wallsAndGates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_288_uniqueWordAbbreviation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_291_wordPatternII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_294_flipGameII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_296_bestMeetingPoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_201_300/_298_BinaryTreeLongestConsecutiveSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_302_smallestRectangleEnclosingBlackPixels.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_305_numberOfIslandsII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_308_rangeSumQuery2DMutable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_311_sparseMatrixMultiplication.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_314_binaryTreeVerticalOrderTraversal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_317_shortestDistanceFromAllBuildings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_320_generalizedAbbreviation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_323_numberOfConnectedComponentsInAnUndirectedGraph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_325_MaximumSizeSubarraySumEqualsK.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_333_largestBST$Result.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_333_largestBST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_340_longestSubstringWithAtMostKDistinctCharacters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_346_movingAverageFromDataStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_348_DesignTicTacToe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_351_androidUnlockPatterns.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_353_snakeGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_356_lineReflection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_358_rearrangeStringKDistanceApart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_359_loggerRateLimiter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_360_sortTransformedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_361_bombEnemy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_362_designHitCounter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_364_nestedListWeightSumII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_369_plusOneLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_301_400/_370_rangeAddition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_408_validWordAbbre.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_411_minUniqueWordAbbre$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_411_minUniqueWordAbbre.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_418_sentenceScreenFitting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_422_validWordSquare.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_425_wordSquares.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_439_tenaryExpressionParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_444_sequenceReconstruction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_465_optimalAccountBalancing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_469_convexPloygon.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_471_encodedStringWithShortestPath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_484_findPermutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_487_maxConsecutiveOnesII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_490_theMaze$Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_490_theMaze.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_499_theMazeIII$Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_401_500/_499_theMazeIII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_505_theMazeII$Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_505_theMazeII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_527_wordAbbre.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_531_lonlyPixelI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_533_lonlyPixelII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_536_constructBinaryTreeFromString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_544_outputContestMatches.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_545_boundaryOfBinaryTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_548_splitArrayWithEqualSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_549_binaryTreeLongestConsecutiveSequenceII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_555_splitConcatenatedStrings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_562_longestLineOfConsecutiveOneInMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_568_maximumVacationDays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_569_medianEmployeeSalary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_570_managersWithAtLeast5DirectReports.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_571_findMedianGivenFrequencyOfNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_573_squirrelSimulation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_574_winningCandidate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_577_employeeBonus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_578_getHighestAnswerRateQuestion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_579_findCumulativeSalaryOfAnEmployee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_580_countStudentNumberInDepartments.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_582_killProcess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_584_findCustomerReferee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_585_investmentsIn2016.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_586_customerPlacingTheLargestNumberOfOrders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_588_designInMemoryFileSystem$File.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_588_designInMemoryFileSystem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_501_600/_597_friendRequestsIOverallAcceptanceRate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/Coordinates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_602_friendRequestsIIWhoHasTheMostFriends.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_603_consecutiveAvailableSeats.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_604_designCompressedStringIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_607_salesPerson.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_608_treeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_610_triangleJudgement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_612_shortestDistanceInAPlane.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_613_shortestDistanceInALine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_614_secondDegreeFollower.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_615_averageSalaryDepartmentsVSCompany.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_616_addBoldTagInString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_618_studentsReportByGeography.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_619_biggestSingleNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_624_maximumDistanceInArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_625_minimumFactorization.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_631_designExcelSumFormula$Cell.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_631_designExcelSumFormula.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_634_findTheDerangementOfAnArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_635_designLogStorageSystem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_642_designSearchAutocompleteSystem$Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_642_designSearchAutocompleteSystem$TrieNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_642_designSearchAutocompleteSystem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_644_maximumAverageSubarrayII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_651_FourKeysKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_656_coinPath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_660_RemoveNine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_663_equalTreePartition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_666_pathSumIV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_681_nextClosestTime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_683_kEmptySlots.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_684_redundantConnection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_694_numberOfDistinctIslands.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_711_numberOfDistinctIslandsII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_716_maxStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_723_candyCrush.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/_601_700/_727_minimumWindowSubsequence.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_001_100/_002_addTwoNumbers.java" afterPath="$PROJECT_DIR$/src/_001_100/_002_addTwoNumbers.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -201,26 +13,71 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DummyProject$_060_permutationSquences.coverage" NAME="_060_permutationSquences Coverage Results" MODIFIED="1521408552171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>_001_100.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_038_countAndSay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_038_countAndSay.java">
+      <file leaf-file-name="_070_climbingStairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_070_climbingStairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_039_combinationSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_039_combinationSum.java">
+      <file leaf-file-name="_071_simplifyPath.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_071_simplifyPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="46" column="5" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="595">
+              <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_073_setMatrixZeroes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_073_setMatrixZeroes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_074_searchA2DMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_074_searchA2DMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_075_sortColors.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_075_sortColors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_077_combinations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_077_combinations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -228,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_040_combinationII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_040_combinationII.java">
+      <file leaf-file-name="_078_subsets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_078_subsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
+            <state relative-caret-position="731">
               <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -240,78 +97,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_043_multiplyStrings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_043_multiplyStrings.java">
+      <file leaf-file-name="_079_wordSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_079_wordSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+            <state relative-caret-position="1122">
+              <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_046_permutations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_046_permutations.java">
+      <file leaf-file-name="_080_removeDuplicatesFromSortedArrayII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_080_removeDuplicatesFromSortedArrayII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="46" column="9" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="31" column="21" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_047_permutationII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_047_permutationII.java">
+      <file leaf-file-name="_081_searchInRotatedSortedArrayII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_001_100/_081_searchInRotatedSortedArrayII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="27" column="54" lean-forward="false" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_048_rotateImage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_048_rotateImage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_049_groupAnagrams.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_049_groupAnagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_50_pow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_50_pow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding>
-                <element signature="e#85#86#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_53_maximumSubarray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_001_100/_53_maximumSubarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -342,25 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_601_700/_716_maxStack.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/Test.java" />
-        <option value="$PROJECT_DIR$/src/_301_400/_364_nestedListWeightSumII.java" />
-        <option value="$PROJECT_DIR$/src/_501_600/_536_constructBinaryTreeFromString.java" />
-        <option value="$PROJECT_DIR$/src/_401_500/_422_validWordSquare.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_001_twoSum.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_002_addTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_003_longestSubstringWithoutRepeatingCharacters.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_004_medianOfTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_005_longestPalindromiSubString.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_007_reverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_008_palindromeNumber.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_11_containerWithMostWater.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_012_integerToRoman.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_013_romanToInteger.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_014_longestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_015_3Sum.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_016_3SumClosest.java" />
-        <option value="$PROJECT_DIR$/src/_001_100/_017_letterCombinationsOfAPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/_001_100/_018_4Sum.java" />
         <option value="$PROJECT_DIR$/src/_001_100/_019_removeNthNodeFromEndOfList.java" />
         <option value="$PROJECT_DIR$/src/_001_100/_020_validParentheses.java" />
@@ -386,6 +177,32 @@
         <option value="$PROJECT_DIR$/src/_001_100/_049_groupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/_001_100/_50_pow.java" />
         <option value="$PROJECT_DIR$/src/_001_100/_53_maximumSubarray.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_054_spiralMatrix.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_055_jumpGame.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_056_mergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_058_lengthOfLastWord.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_059_spiralMatrixII.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/src/_001_100/_060_permutationSquences.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_002_addTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_061_rotateList.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_062_uniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_063_uniquePathsII.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_064_minimunPathSum.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_066_plusOne.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_067_addBinary.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_069_sqrt_x.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_072_climbingStairs.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_071_simplifyPath.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_073_setMatrixZeroes.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_074_searchA2DMatrix.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_075_sortColors.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_077_combinations.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_078_subsets.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_079_wordSearch.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_080_removeDuplicatesFromSortedArrayII.java" />
+        <option value="$PROJECT_DIR$/src/_001_100/_081_searchInRotatedSortedArrayII.java" />
       </list>
     </option>
   </component>
@@ -412,7 +229,9 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -420,18 +239,27 @@
               <item name="DummyProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="DummyProject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DummyProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DummyProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DummyProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DummyProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_100" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -446,15 +274,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._53_maximumSubarray">
-    <configuration name="_047_permutationII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application._081_searchInRotatedSortedArrayII">
+    <configuration name="_077_combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="_001_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="_001_100._047_permutationII" />
+      <option name="MAIN_CLASS_NAME" value="_001_100._077_combinations" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -466,14 +294,14 @@
       <module name="DummyProject" />
       <envs />
     </configuration>
-    <configuration name="_048_rotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_078_subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="_001_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="_001_100._048_rotateImage" />
+      <option name="MAIN_CLASS_NAME" value="_001_100._078_subsets" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -485,14 +313,14 @@
       <module name="DummyProject" />
       <envs />
     </configuration>
-    <configuration name="_049_groupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_079_wordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="_001_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="_001_100._049_groupAnagrams" />
+      <option name="MAIN_CLASS_NAME" value="_001_100._079_wordSearch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -504,14 +332,14 @@
       <module name="DummyProject" />
       <envs />
     </configuration>
-    <configuration name="_50_pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_080_removeDuplicatesFromSortedArrayII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="_001_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="_001_100._50_pow" />
+      <option name="MAIN_CLASS_NAME" value="_001_100._080_removeDuplicatesFromSortedArrayII" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -523,14 +351,14 @@
       <module name="DummyProject" />
       <envs />
     </configuration>
-    <configuration name="_53_maximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_081_searchInRotatedSortedArrayII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="_001_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="_001_100._53_maximumSubarray" />
+      <option name="MAIN_CLASS_NAME" value="_001_100._081_searchInRotatedSortedArrayII" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -624,19 +452,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._047_permutationII" />
-      <item index="1" class="java.lang.String" itemvalue="Application._048_rotateImage" />
-      <item index="2" class="java.lang.String" itemvalue="Application._049_groupAnagrams" />
-      <item index="3" class="java.lang.String" itemvalue="Application._50_pow" />
-      <item index="4" class="java.lang.String" itemvalue="Application._53_maximumSubarray" />
+      <item index="0" class="java.lang.String" itemvalue="Application._077_combinations" />
+      <item index="1" class="java.lang.String" itemvalue="Application._078_subsets" />
+      <item index="2" class="java.lang.String" itemvalue="Application._079_wordSearch" />
+      <item index="3" class="java.lang.String" itemvalue="Application._080_removeDuplicatesFromSortedArrayII" />
+      <item index="4" class="java.lang.String" itemvalue="Application._081_searchInRotatedSortedArrayII" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application._53_maximumSubarray" />
-        <item index="1" class="java.lang.String" itemvalue="Application._50_pow" />
-        <item index="2" class="java.lang.String" itemvalue="Application._049_groupAnagrams" />
-        <item index="3" class="java.lang.String" itemvalue="Application._048_rotateImage" />
-        <item index="4" class="java.lang.String" itemvalue="Application._047_permutationII" />
+        <item index="0" class="java.lang.String" itemvalue="Application._081_searchInRotatedSortedArrayII" />
+        <item index="1" class="java.lang.String" itemvalue="Application._080_removeDuplicatesFromSortedArrayII" />
+        <item index="2" class="java.lang.String" itemvalue="Application._079_wordSearch" />
+        <item index="3" class="java.lang.String" itemvalue="Application._078_subsets" />
+        <item index="4" class="java.lang.String" itemvalue="Application._077_combinations" />
       </list>
     </recent_temporary>
   </component>
@@ -666,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520484973809</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add solutions 54 ~ 59">
+      <created>1521472749995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521472749995</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -679,8 +514,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28705883" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2529412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -689,7 +524,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33058822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33764705" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -697,266 +532,54 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20588236" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add solution for problem 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution for problem 1" />
+    <MESSAGE value="add solutions 54 ~ 59" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solutions 54 ~ 59" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_001_100/_031_nextPermutation.java</url>
-          <line>88</line>
-          <properties />
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_001_100/_031_nextPermutation.java</url>
-          <line>94</line>
-          <properties />
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_001_100/_031_nextPermutation.java</url>
-          <line>90</line>
-          <properties />
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="64" />
+      <option name="time" value="102" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_027_removeElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_028_implementStrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_001_twoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_002_addTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DummyProject.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_301_400/_364_nestedListWeightSumII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="50" column="35" lean-forward="false" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_501_600/_536_constructBinaryTreeFromString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/_401_500/_422_validWordSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_072_editDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/490_ex1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_601_700/_716_maxStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_001_twoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_004_medianOfTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#183#184#0" expanded="false" />
-            <element signature="e#209#210#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_005_longestPalindromicSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_002_addTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_003_longestSubstringWithoutRepeatingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_007_reverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="63" lean-forward="true" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-          <folding>
-            <element signature="e#97#98#0" expanded="false" />
-            <element signature="e#152#153#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_008_palindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="e#99#100#0" expanded="false" />
-            <element signature="e#153#154#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_011_containerWithMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_012_integerToRoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#146#147#0" expanded="false" />
-            <element signature="e#198#199#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_013_romanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="60" column="77" lean-forward="false" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#146#147#0" expanded="false" />
-            <element signature="e#202#203#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_014_longestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_015_3Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="64" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_016_3SumClosest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_017_letterCombinationsOfAPhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_001_100/_018_4Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
@@ -1080,7 +703,7 @@
         <state relative-caret-position="375">
           <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1090,8 +713,8 @@
         <state relative-caret-position="408">
           <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="false" />
+            <element signature="e#144#145#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1101,7 +724,7 @@
         <state relative-caret-position="748">
           <caret line="46" column="5" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1119,7 +742,7 @@
         <state relative-caret-position="748">
           <caret line="46" column="9" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1129,7 +752,7 @@
         <state relative-caret-position="425">
           <caret line="27" column="54" lean-forward="false" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1150,20 +773,217 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_50_pow.java">
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_50_pow.java" />
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_040_combinationII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_040_combinationII.java">
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_53_maximumSubarray.java" />
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_056_mergeIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
+        <state relative-caret-position="629">
+          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_058_lengthOfLastWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_054_spiralMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_059_spiralMatrixII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_055_jumpGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_060_permutationSquences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#154#155#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_002_addTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="85" column="1" lean-forward="false" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_061_rotateList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="62" lean-forward="true" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_062_uniquePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="e#94#95#0" expanded="false" />
+            <element signature="e#147#148#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_063_uniquePathsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_064_minimunPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_066_plusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_067_addBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="61" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_069_sqrt_x.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <folding>
+            <element signature="e#89#90#0" expanded="false" />
+            <element signature="e#134#135#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_070_climbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_071_simplifyPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_073_setMatrixZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_074_searchA2DMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_075_sortColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_077_combinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_078_subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1171,10 +991,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_100/_53_maximumSubarray.java">
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_079_wordSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="1122">
+          <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_080_removeDuplicatesFromSortedArrayII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="21" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_100/_081_searchInRotatedSortedArrayII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding />
         </state>
       </provider>
