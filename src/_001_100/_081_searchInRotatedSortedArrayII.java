@@ -2,8 +2,8 @@ package _001_100;
 
 public class _081_searchInRotatedSortedArrayII {
     public static void main(String[] args) {
-        int[] nums = { 5, 5, 6, 8, 10, 1, 3, 3, 5, 5 };
-        System.out.println(search(nums, 1));
+        int[] nums = { 3, 1 };
+        System.out.println(search(nums, 3));
     }
 
     public static boolean search(int[] nums, int target) {
@@ -16,10 +16,24 @@ public class _081_searchInRotatedSortedArrayII {
         int end = len - 1;
 
         while(start <= end) {
-            int mid = start + (end - start) / 2;
+            int mid = (start + end) / 2;
 
             if(nums[mid] == target) {
                 return true;
+            } else if(nums[start] < nums[mid]) {
+                if(target > nums[mid] || nums[start] > target) {
+                    start = mid + 1;
+                } else {
+                    end = mid - 1;
+                }
+            } else if(nums[start] > nums[mid]) {
+                if(target < nums[mid] || target > nums[end]) {
+                    end = mid - 1;
+                } else {
+                    start = mid + 1;
+                }
+            } else {
+                start++;
             }
         }
 
