@@ -40,6 +40,5 @@ public class _114_flattenBT2LinkedList {
         root.right = pre;
         root.left = null;
         pre = root;
-
     }
 }
