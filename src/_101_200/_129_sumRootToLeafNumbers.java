@@ -1,5 +1,7 @@
 package _101_200;
 
+import _001_100.TreeNode;
+
 public class _129_sumRootToLeafNumbers {
 
 	public static void main(String[] args) {
@@ -44,12 +46,3 @@ public class _129_sumRootToLeafNumbers {
 	}
 }
 
-class TreeNode {
-	public TreeNode left;
-	public TreeNode right;
-	public int val;
-
-	public TreeNode(int val) {
-		this.val = val;
-	}
-}
